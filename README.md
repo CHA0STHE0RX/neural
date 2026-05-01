@@ -11,7 +11,7 @@ Created for : Simulating neurons-networks based on the Hodgkin Huxley Model and 
 (training (red:pre-training green:post-training) current network.py)
 <br />
 <br/>
-References:
-[STDP](https://pmc.ncbi.nlm.nih.gov/articles/PMC6085488/)
-[Hodgkin Huxley Model](https://www.damtp.cam.ac.uk/user/gold/pdfs/teaching/HodgkinHuxley.pdf)
-[Inhibitor learning (future)](https://www.science.org/doi/10.1126/science.1211095)
+References:  
+[STDP learning](https://pmc.ncbi.nlm.nih.gov/articles/PMC6085488/)  
+[Hodgkin Huxley Model](https://www.damtp.cam.ac.uk/user/gold/pdfs/teaching/HodgkinHuxley.pdf)  
+[Inhibitor learning (future)](https://www.science.org/doi/10.1126/science.1211095)  
